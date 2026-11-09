@@ -15,6 +15,14 @@ namespace GladiatorBattle
             string temp;
             Random rnd = new Random();
 
+
+            //Оформление консоли
+            Console.Title = "Гладиаторный бой";
+            Console.BackgroundColor = ConsoleColor.DarkMagenta;
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+
+
             //Ввод данных с клавиатуры
 
             while (true)
@@ -50,7 +58,7 @@ namespace GladiatorBattle
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Вы ввели не число брони!");
-       
+                    Console.ForegroundColor = ConsoleColor.DarkCyan;
                 }
             }
 
