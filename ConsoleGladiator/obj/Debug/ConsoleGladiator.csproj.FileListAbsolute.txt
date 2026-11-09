@@ -1,0 +1,7 @@
+D:\колледж\программирование\C#\ConsoleGladiator\ConsoleGladiator\bin\Debug\ConsoleGladiator.exe.config
+D:\колледж\программирование\C#\ConsoleGladiator\ConsoleGladiator\bin\Debug\ConsoleGladiator.exe
+D:\колледж\программирование\C#\ConsoleGladiator\ConsoleGladiator\bin\Debug\ConsoleGladiator.pdb
+D:\колледж\программирование\C#\ConsoleGladiator\ConsoleGladiator\obj\Debug\ConsoleGladiator.csproj.AssemblyReference.cache
+D:\колледж\программирование\C#\ConsoleGladiator\ConsoleGladiator\obj\Debug\ConsoleGladiator.csproj.CoreCompileInputs.cache
+D:\колледж\программирование\C#\ConsoleGladiator\ConsoleGladiator\obj\Debug\ConsoleGladiator.exe
+D:\колледж\программирование\C#\ConsoleGladiator\ConsoleGladiator\obj\Debug\ConsoleGladiator.pdb
